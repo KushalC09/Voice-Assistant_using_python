@@ -1,0 +1,15 @@
+wolframalpha
+pyttsx3==2.7
+tkinter
+random
+speech_recognition
+datetime
+wikipedia
+webbrowser
+pyaudio
+winshell
+pyjokes
+feedparser
+clint
+ecapture
+
